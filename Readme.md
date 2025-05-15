@@ -1,6 +1,8 @@
 
 # SMI.TO - Next.js URL Shortener
 
+
+## Live url :  https://smito-mfou039ou-medjo-stanlys-projects.vercel.app/
   
 
 This project is a URL shortener application built as a solution to the Semicolon coding challenge. It allows users to shorten long URLs, which are then accessible via a unique `smi.to/...` link. The application features a frontend to submit URLs and an API backend to handle the shortening logic and redirection.
@@ -23,7 +25,6 @@ Built with Next.js (React frontend, Node.js API routes) and MongoDB. Containeriz
 
 *  **Containerization:** Docker & Docker Compose
 
-*  **Deployment Target:** Vercel (recommended for Next.js)
 
   
 
